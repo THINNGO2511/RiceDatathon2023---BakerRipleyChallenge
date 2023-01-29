@@ -16,4 +16,4 @@
 - Open the `BakerRipley's Track.ipynb` notebook and run (Using ***anaconda*** is preferred)
 ## Demo:
 - PDF: `BakerRipley's Track.pdf`
-- Video Presentation: 
+- Video Presentation: https://www.youtube.com/watch?v=ktHObJlYKMs
