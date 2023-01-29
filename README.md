@@ -14,3 +14,6 @@
 - Clone this project
 - Create a `content` folder then add all the datasets given into this folder
 - Open the `BakerRipley's Track.ipynb` notebook and run (Using ***anaconda*** is preferred)
+## Demo:
+- PDF: `BakerRipley's Track.pdf`
+- Video Presentation: 
