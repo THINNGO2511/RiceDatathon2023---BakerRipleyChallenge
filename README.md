@@ -9,4 +9,4 @@
 - Chindeu Okafor
 ## Instructions:
 - Clone this project
-- Create a `datasets` folder then add all the datasets given into this folder
+- Create a `content` folder then add all the datasets given into this folder
