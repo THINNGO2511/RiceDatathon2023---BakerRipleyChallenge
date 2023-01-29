@@ -17,3 +17,7 @@
 ## Demo:
 - PDF: `BakerRipley's Track.pdf`
 - Video Presentation: https://www.youtube.com/watch?v=ktHObJlYKMs
+
+##Notes:
+
+this project will be regularly updated
