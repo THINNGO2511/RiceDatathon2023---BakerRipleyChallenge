@@ -8,5 +8,9 @@
 - Minh Nguyen
 - Chindeu Okafor
 ## Instructions:
+- Requirements:
+    - anaconda (preferred)
+    - python 3.9
 - Clone this project
 - Create a `content` folder then add all the datasets given into this folder
+- Open the `BakerRipley's Track.ipynb` notebook and run (Using ***anaconda*** is preferred)
